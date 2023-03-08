@@ -1,0 +1,8 @@
+[package]
+name = "count_vowels_consonents"
+version = "0.1.0"
+edition = "2021"
+authors = ["Jaya <jk499@duke.edu>"]
+
+
+[dependencies]
