@@ -1,3 +1,6 @@
+[![Clippy](https://github.com/nogibjj/week7-jk499-rust/actions/workflows/lint.yml/badge.svg)](https://github.com/nogibjj/week7-jk499-rust/actions/workflows/lint.yml)
+[![Build binary release](https://github.com/nogibjj/week7-jk499-rust/actions/workflows/release.yml/badge.svg)](https://github.com/nogibjj/week7-jk499-rust/actions/workflows/release.yml)
+
 # Count number of vowles and consonents.
 
 **Developer:** Jaya Khan 
